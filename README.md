@@ -19,7 +19,7 @@ classification report - Visual analysis using **Matplotlib** and
 
     Breast-Cancer-ML-Classification-Project/
     │
-    ├── breast_cancer_classification.ipynb
+    ├── classification_breast_cancer.ipynb
     ├── main.py
     ├── README.md
     └── requirements.txt
